@@ -7,6 +7,7 @@ export default () => (
   <div style={{ color: `purple` }}>
     <Link to="/contact/">Contact</Link>
     <Link to="/about/">About</Link>
+    <Link to="/about-css-modules/">About CSS</Link>
 
     <Header headerText={"Hello Gatsby!"}/>
     <p>What a world.</p>
